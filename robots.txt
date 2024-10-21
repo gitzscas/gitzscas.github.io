@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gitzscas.github.io/gitzscas.txt.gz
+Sitemap: https://gitzscas.github.io/app/gitzscas.txt.gz
+Sitemap: https://gitzscas.github.io/assets/gitzscas.txt.gz
+Sitemap: https://gitzscas.github.io/css/gitzscas.txt.gz
+Sitemap: https://gitzscas.github.io/includes/gitzscas.txt.gz
+Sitemap: https://gitzscas.github.io/item/gitzscas.txt.gz
+Sitemap: https://gitzscas.github.io/src/gitzscas.txt.gz
